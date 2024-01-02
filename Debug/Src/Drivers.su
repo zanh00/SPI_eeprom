@@ -1,0 +1,7 @@
+Drivers.c:9:13:gpio_Init	4	static
+Drivers.c:37:13:spi1_Init	4	static
+Drivers.c:67:13:SPI_transmit_receive	24	static
+Drivers.c:95:13:SPI_page_write	32	static
+Drivers.c:159:13:SPI_read	40	static
+Drivers.c:200:13:delay	16	static
+Drivers.c:208:13:delay2	16	static
